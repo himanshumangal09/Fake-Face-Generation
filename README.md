@@ -1,18 +1,8 @@
-# Udacity-Deep-Learning-Nanodegree-Project4-Generating-Faces
-This my submission for Udacity Deep Learning Nanodegree Project for Generating Faces scripts using Generative Adversarial Networks
-
-[//]: # (Image Reference)
-
-[image1]: ./example.jpg "Generated Faces"
-
 # Face Generation
 
 ## Project Overview
 
 In this project, I defined and trained a DCGAN on a dataset of faces. The goal of this project is to get a generator network to generate _new_ images of faces that look as realistic as possble. The image below is a result of the training:
-
-![Generated Faces][image1]
-
 
 ## Project Instruction
 
