@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, I defined and trained a DCGAN on a dataset of faces. The goal of this project is to get a generator network to generate _new_ images of faces that look as realistic as possble. The image below is a result of the training:
+In this project, I defined and trained a DCGAN on a dataset of faces. The goal of this project is to get a generator network to generate _new_ images of faces that look as realistic as possible.
 
 ## Project Instruction
 
